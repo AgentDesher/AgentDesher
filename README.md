@@ -7,4 +7,4 @@
 - **Python** (библиотеки pandas, numpy, matplotlib, seaborn);
 - **BI-системы** (создание дашбордов в DataLens);
 - Проведение **A/B тестов**;
-- **Excel/Google Sheets** (проведение расчетов, сводные таблицы).
+- **Excel/Google Sheets** (расчеты, сводные таблицы).
